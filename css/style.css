@@ -1,0 +1,12 @@
+button:hover{
+    background-color: black;
+}
+a:hover{
+    color: blueviolet;
+}
+.a:link{
+    color: brown;
+}
+.a#visited{
+    color: blue;
+}
