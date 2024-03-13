@@ -1,12 +1,15 @@
-button:hover{
-    background-color: black;
-}
-a:hover{
+.table-class{
     color: blueviolet;
 }
-.a:link{
-    color: brown;
+thead{
+    color: rgb(35, 149, 12);
 }
-.a#visited{
-    color: blue;
+tbody{
+    color: rgb(152, 9, 177);
+}
+thead,tbody{
+    background-color: black;
+}
+tr:hover td {
+    color: red;
 }
